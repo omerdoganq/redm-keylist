@@ -1,2 +1,2 @@
 # redm-keylist
-Redm Tuş Kodları
+RedM Tuş Kodları / RedM Key list
